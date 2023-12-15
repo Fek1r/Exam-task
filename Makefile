@@ -7,7 +7,7 @@ gcc:
 
 push:
 	git add .
-	git commit -a -m "Ya SerGAY"
+	git commit -a -m "Ya Ser"
 	git push origin main 
 
 delete:

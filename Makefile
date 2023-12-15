@@ -3,6 +3,7 @@ run:
 
 gcc:
 	gcc main_scanf.c -o main.o
+	
 
 push:
 	git add .

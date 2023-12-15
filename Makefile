@@ -8,3 +8,6 @@ push:
 	git add .
 	git commit -m "Ya SerGAY"
 	git push origin main 
+
+delete:
+	rm -f main.o
